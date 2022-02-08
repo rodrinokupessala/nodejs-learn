@@ -1,5 +1,5 @@
 # Asymmetric encryption in Nodejs
-![Imagem](https://github.com/rodrinokupessala/nodejs-learn/crypto-Assimetric/asymmetric-encryption.jpg?raw=true)
+![Imagem](https://github.com/rodrinokupessala/nodejs-learn/blob/main/crypto-Assimetric/asymmetric-encryption.jpg)
 # How asymmetric encryption works?
 In an asymmetric key encryption scheme, anyone can encrypt messages using the public key, but only the holder of the paired private key can decrypt. Security depends on the secrecy of the private key.
 
