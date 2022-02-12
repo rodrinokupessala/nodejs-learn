@@ -1,0 +1,26 @@
+Arguments: 
+  /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/share/yarn/bin/yarn.js add express http-proxy-middleware morgan
+
+PATH: 
+  /data/data/com.termux/files/usr/bin:/data/data/com.termux/files/usr/bin/applets:/data/data/com.termux/files/home/.termux/bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  17.4.0
+
+Platform: 
+  android arm64
+
+Trace: 
+  Error: EPERM: operation not permitted, symlink '../../../mime/cli.js' -> '/storage/emulated/0/projetos/nodejs-learn/server-proxy/node_modules/send/node_modules/.bin/mime'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

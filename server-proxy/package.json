@@ -1,0 +1,18 @@
+{
+  "name": "server-proxy",
+  "version": "1",
+  "description": "This is examples of the server proxy ising nodejs.",
+  "main": "app.js",
+  "repository": "https://github.com/rodrinokupessala/nodejs-learn",
+  "author": "Rodrino Adolfo Kupessala<rkupessala@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+   "express": "^4.17.1",
+   "http-proxy-middleware": "^1.0.5",
+   "morgan": "^1.10.0"
+ },
+ "scripts": {
+   "start": "node index.js"
+ }
+}
